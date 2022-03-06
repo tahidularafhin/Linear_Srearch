@@ -1,0 +1,16 @@
+C:\Users\topu_\source\repos\Linear_Search\Linear_Search\bin\Debug\net5.0\Linear_Search.exe
+C:\Users\topu_\source\repos\Linear_Search\Linear_Search\bin\Debug\net5.0\Linear_Search.deps.json
+C:\Users\topu_\source\repos\Linear_Search\Linear_Search\bin\Debug\net5.0\Linear_Search.runtimeconfig.json
+C:\Users\topu_\source\repos\Linear_Search\Linear_Search\bin\Debug\net5.0\Linear_Search.runtimeconfig.dev.json
+C:\Users\topu_\source\repos\Linear_Search\Linear_Search\bin\Debug\net5.0\Linear_Search.dll
+C:\Users\topu_\source\repos\Linear_Search\Linear_Search\bin\Debug\net5.0\ref\Linear_Search.dll
+C:\Users\topu_\source\repos\Linear_Search\Linear_Search\bin\Debug\net5.0\Linear_Search.pdb
+C:\Users\topu_\source\repos\Linear_Search\Linear_Search\obj\Debug\net5.0\Linear_Search.csproj.AssemblyReference.cache
+C:\Users\topu_\source\repos\Linear_Search\Linear_Search\obj\Debug\net5.0\Linear_Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\topu_\source\repos\Linear_Search\Linear_Search\obj\Debug\net5.0\Linear_Search.AssemblyInfoInputs.cache
+C:\Users\topu_\source\repos\Linear_Search\Linear_Search\obj\Debug\net5.0\Linear_Search.AssemblyInfo.cs
+C:\Users\topu_\source\repos\Linear_Search\Linear_Search\obj\Debug\net5.0\Linear_Search.csproj.CoreCompileInputs.cache
+C:\Users\topu_\source\repos\Linear_Search\Linear_Search\obj\Debug\net5.0\Linear_Search.dll
+C:\Users\topu_\source\repos\Linear_Search\Linear_Search\obj\Debug\net5.0\ref\Linear_Search.dll
+C:\Users\topu_\source\repos\Linear_Search\Linear_Search\obj\Debug\net5.0\Linear_Search.pdb
+C:\Users\topu_\source\repos\Linear_Search\Linear_Search\obj\Debug\net5.0\Linear_Search.genruntimeconfig.cache
